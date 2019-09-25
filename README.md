@@ -111,15 +111,6 @@ From the root of the repository, nav to cypress-demo directory and npm install. 
 npm i
 ```
 
-<details><summary>Unofficial work-around</summary>
-
-Delete the registry key:
-
-```
-reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallBlacklist" /f
-```
-</details>
-
 Start up the server again like we did before, the script assumes you are in root directory:
 ```
 python webdemo/demoapp/server.py
