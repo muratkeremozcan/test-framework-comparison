@@ -1,0 +1,10 @@
+[submodule "protractor-demo"]
+	path = protractor-demo
+	url = git@code.siemens.com:joel.whalen/protractor-demo.git
+[submodule "webdemo"]
+	path = webdemo
+	url = git@code.siemens.com:joel.whalen/robot-webdemo.git
+[submodule "cypress-demo"]
+	path = cypress-demo
+	url = git@code.siemens.com:joel.whalen/cypress-demo.git
+	branch = master

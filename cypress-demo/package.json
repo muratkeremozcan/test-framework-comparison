@@ -1,0 +1,24 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@bahmutov/add-typescript-to-cypress": "^2.0.0",
+    "cypress": "^3.1.4",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:record": "cypress run --record --key 3afb9d5f-2d33-48c5-885d-c31b1eedc4c0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@code.siemens.com:joel.whalen/cypress-demo.git"
+  },
+  "author": "Joel Whalen",
+  "license": "ISC"
+}

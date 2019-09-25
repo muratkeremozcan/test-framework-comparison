@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:7272",
+  "env": {
+    "host": "http://localhost:7272",
+    "google": "https://www.google.com/"
+  },
+  "chromeWebSecurity": false,
+  "projectId": "797r9w"
+}
