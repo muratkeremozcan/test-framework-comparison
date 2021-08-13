@@ -634,12 +634,6 @@ debug@2.6.9, debug@^2.1.2, debug@^2.2.0, debug@^2.3.3:
   dependencies:
     ms "2.0.0"
 
-debug@=3.1.0:
-  version "3.1.0"
-  resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
-  dependencies:
-    ms "2.0.0"
-
 debug@^3.1.0:
   version "3.2.6"
   resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
@@ -814,9 +808,9 @@ esutils@^2.0.2:
   version "2.0.2"
   resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
 
-eventemitter3@^3.0.0:
-  version "3.1.0"
-  resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/eventemitter3/-/eventemitter3-3.1.0.tgz#090b4d6cdbd645ed10bf750d4b5407942d7ba163"
+eventemitter3@^4.0.0:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/eventemitter3/-/eventemitter3-4.0.7.tgz#2de9b68f6528d5644ef5c59526a1b4a07306169f"
 
 exit@^0.1.2:
   version "0.1.2"
@@ -956,10 +950,8 @@ finalhandler@1.1.0:
     unpipe "~1.0.0"
 
 follow-redirects@^1.0.0:
-  version "1.6.1"
-  resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/follow-redirects/-/follow-redirects-1.6.1.tgz#514973c44b5757368bad8bddfe52f81f015c94cb"
-  dependencies:
-    debug "=3.1.0"
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.1.tgz#d9114ded0a1cfdd334e164e6662ad02bfd91ff43"
 
 for-in@^1.0.1, for-in@^1.0.2:
   version "1.0.2"
@@ -1172,10 +1164,10 @@ http-errors@1.6.3, http-errors@~1.6.3:
     statuses ">= 1.4.0 < 2"
 
 http-proxy@^1.13.0:
-  version "1.17.0"
-  resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/http-proxy/-/http-proxy-1.17.0.tgz#7ad38494658f84605e2f6db4436df410f4e5be9a"
+  version "1.18.1"
+  resolved "https://registry.yarnpkg.com/http-proxy/-/http-proxy-1.18.1.tgz#401541f0534884bbf95260334e72f88ee3976549"
   dependencies:
-    eventemitter3 "^3.0.0"
+    eventemitter3 "^4.0.0"
     follow-redirects "^1.0.0"
     requires-port "^1.0.0"
 
@@ -2253,7 +2245,7 @@ request@^2.87.0:
 
 requires-port@^1.0.0:
   version "1.0.0"
-  resolved "https://devops.bt.siemens.com/artifactory/api/npm/npm-all/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
+  resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
 
 resolve-url@^0.2.1:
   version "0.2.1"
